@@ -29,10 +29,10 @@
 - The R-squared value of the train set is 84.0% whereas the test set has a value of 80.8%. The adjusted R-squared value of train set is 83.6% whereas the test set has 78.7%. The difference in R^2 between train and test is 3.1% and the difference in adjusted R^2 between Train and test is 4.8% which is less than 5%. Hence, this suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
 
 ### Business Goals:
-- A US bike-sharing provider BoomBikes can focus more on Temperature
-- We can see demand for bikes was more in 2019 than 2018, so just focus as there is increase in 2019 and might be facing dips in their revenues due to the ongoing Corona pandemic and by the time it reduces the things will be better
+- A US bike-sharing provider BoomBikes can focus more on Temperature.
+- We can see demand for bikes was more in 2019 than 2018, so just focus as there is increase in 2019 and might be facing dips in their revenues due to the ongoing Corona pandemic and by the time it reduces the things will be better.
 - Can focus more on Summer & Winter season, August, September month, Weekends, Working days as they have good influence on bike rentals.
-- We can see spring season has negative coefficients and negatively correlated to bike rentals. So we can give some offers there to increase the demand
+- We can see spring season has negative coefficients and negatively correlated to bike rentals. So we can give some offers there to increase the demand.
 - Now seeing to weathersit variable, we have got negative coefficients for Mist +cloudy and Lightsnow weather. So, we can give some offers during this season.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
